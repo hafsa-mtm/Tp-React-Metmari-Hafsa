@@ -17,13 +17,24 @@ npm install
 ```
 ## Screens
 
+### catalog page
+
 ![image](https://github.com/user-attachments/assets/733eaa02-85f1-461b-b774-9be9833d5e8c)
 
 ![image](https://github.com/user-attachments/assets/9385d2bd-064b-403c-9a4d-666d767031ef)
 
 
+### details
 
-![image](https://github.com/user-attachments/assets/c9e95a6b-08a7-4e32-9a16-3e88a9628d81)
+![image](https://github.com/user-attachments/assets/2f7af178-9e19-4d81-9f52-db40dcf872b0)
+
+![image](https://github.com/user-attachments/assets/c6ecaab4-fa37-42f3-869b-e1b20d735b0a)
+
+![image](https://github.com/user-attachments/assets/819e3e7b-90bc-4c03-81df-6f499c0d25dd)
+
+![image](https://github.com/user-attachments/assets/8bd19a62-3f33-40f3-bcb7-ae20a6ae8766)
+
+![image](https://github.com/user-attachments/assets/975d24a6-edbb-4407-8150-bb6b2a829a2b)
 
 
 
