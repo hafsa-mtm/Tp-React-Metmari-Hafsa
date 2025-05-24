@@ -15,7 +15,7 @@ Make sure to install the necessary dependencies before running the project:
 ```bash
 npm install
 ```
-## Screens shoots
+## Screens
 
 ![image](https://github.com/user-attachments/assets/c9e95a6b-08a7-4e32-9a16-3e88a9628d81)
 
