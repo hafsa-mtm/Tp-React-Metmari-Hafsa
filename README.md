@@ -1,9 +1,32 @@
 <<<<<<< HEAD
 # React + TypeScript + Vite
 
+## Project Information
+
+**Name:** Hafsa Metmari  
+**Project:** React Lab – Product Placement Components
+
+---
+
+## Dependencies
+
+Make sure to install the necessary dependencies before running the project:
+
+```bash
+npm install
+```
+## Screens shoots
+
+![image](https://github.com/user-attachments/assets/c9e95a6b-08a7-4e32-9a16-3e88a9628d81)
+
+
+
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
+
 
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
