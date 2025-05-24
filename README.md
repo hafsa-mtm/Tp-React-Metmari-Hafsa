@@ -17,7 +17,10 @@ npm install
 ```
 ## Screens
 
-![image](https://github.com/user-attachments/assets/fc2e1dd1-2b2f-4218-9c83-b8a77ffee0eb)
+![image](https://github.com/user-attachments/assets/733eaa02-85f1-461b-b774-9be9833d5e8c)
+
+![image](https://github.com/user-attachments/assets/9385d2bd-064b-403c-9a4d-666d767031ef)
+
 
 
 ![image](https://github.com/user-attachments/assets/c9e95a6b-08a7-4e32-9a16-3e88a9628d81)
