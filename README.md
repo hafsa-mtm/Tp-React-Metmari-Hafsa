@@ -4,7 +4,7 @@
 ## Project Information
 
 **Name:** Hafsa Metmari  
-**Project:** React Lab – Product Placement Components
+**Project:** React Lab – Product Components
 
 ---
 
